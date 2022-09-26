@@ -1,6 +1,6 @@
 Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset Coursera Worksheet
 ================================================================================================
-This is an SQL project done as part of a Coursera / UC Davis course.
+This is a peer-reviewed SQL project by UC Davis course, SQL for Data Science (Coursera platform).
 
 The idea of the project was to provide a hands-on experience with
 SQL and data analysis using the Yelp dataset.
